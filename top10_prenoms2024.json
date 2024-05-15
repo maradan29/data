@@ -1,5 +1,5 @@
 [
-  "filles": {
+  "filles": [
     "2022": [
 ["Emma", 26],
 ["Alice", 19],
@@ -276,8 +276,8 @@
 ["Elisa", 13],
 ["Emilie", 13]
 ]
-  },
-  "garcons": {
+  ],
+  "garcons": [
     "2022": [
 ["Noah", 32],
 ["Gabriel", 21],
@@ -554,5 +554,5 @@
 ["Benjamin", 15],
 ["Dylan", 15]
 ]
-  }
+  ]
 ]
