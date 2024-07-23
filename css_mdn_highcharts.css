@@ -72,6 +72,16 @@
   stroke: #18a1cd;
 }
 
+.color7 {
+  fill: #073a49;
+  stroke: #073a49;
+}
+
+.color7 .highcharts-point {
+  fill: #073a49;
+  stroke: #073a49;
+}
+
 .colonnes .highcharts-point {
   fill: #fdaa9f;
   stroke: #fdaa9f;
